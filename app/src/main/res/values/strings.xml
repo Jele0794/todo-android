@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Todo List</string>
+  <string name="action_settings">Settings</string>
+  <string name="action_clear_list">Clear List</string>
+  <string name="dialog_fire_missiles">Hello from a dialog</string>
+  <string name="add">ADD</string>
+  <string name="hint_task_title">Title</string>
+  <string name="hint_task_desc">Description</string>
+  <string name="title_task">Add a Task</string>
+</resources>
